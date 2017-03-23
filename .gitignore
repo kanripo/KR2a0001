@@ -1,0 +1,9 @@
+.git
+\#*
+\.#*
+*~
+_*
+*bak
+*elc
+*pyc
+.DS_Store

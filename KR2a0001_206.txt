@@ -131,7 +131,7 @@
 
 # src: SHIJI 19.1.1 977; Wang Liqi 689; Takigawa 2; tr. Watson 1993, Han, vol.1 p. 431
 # dating: 6220
-TD alignleft VALIGNTOP二
+二
 前三年，¶
 侯閒反，¶
 國除。|
